@@ -5,3 +5,6 @@ I believe that every person will be able to achieve the greatest success in his 
 I love this professional field and in my spare time I always strive to learn something new. 
 4. JavaScript, Java, Python, Git
 5. In my Git account
+6. Here are examples of my work https://github.com/arkanomsk/rsschool-cv
+7. SIBIT (Siberian Institute of business and information technologies, Omsk, management) and RS School Frontend course 
+8. English level A2, now continue to study it.
